@@ -1,2 +1,2 @@
-# Prog2
-Prog2 feladatok
+# Prog1
+Prog1feladatok
