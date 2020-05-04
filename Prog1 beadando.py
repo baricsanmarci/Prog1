@@ -43,7 +43,7 @@ else:
 
     print(megtekintes, "A teljes videó ", int(a), "/", int(b), "részét sikerült már megnézni.", sep='')
 
-# #EX9
+#EX9
 
 x=1
 teszt=int(input("Adja meg a kívánt tesztesetek számát: "))
