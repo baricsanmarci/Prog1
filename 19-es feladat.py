@@ -45,3 +45,4 @@ while True:
     plt.show()
     x=xs
     y=ys
+    
